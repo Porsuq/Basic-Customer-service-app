@@ -19,7 +19,7 @@ A beginner-friendly Windows Forms application built using **C# (.NET Framework)*
 
 - C# (.NET Framework)
 - Windows Forms (Visual Studio Designer)
-- ListView, ComboBox, MonthCalendar, TextBox
+- ListView, ComboBox, MonthCalendar, List<> (for saving data on RAM)
 - Object-Oriented Programming (Classes, Lists, Validation)
 
 ---
